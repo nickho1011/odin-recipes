@@ -1,0 +1,1 @@
+The current project I am working on is to create a brief website that goes over different recipes. I will be demonstrating how to use git commands to add and commit and ultimately push it to my public repository. I will be using basic HTML to create the webpage.
